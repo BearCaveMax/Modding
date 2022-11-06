@@ -51,4 +51,4 @@ namespace UltraPhaseSaber.Content.Items
 				recipe.Register();
 		}
 	}
-}
+} 
